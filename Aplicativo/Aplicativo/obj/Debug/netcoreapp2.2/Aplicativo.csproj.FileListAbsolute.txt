@@ -1,0 +1,28 @@
+C:\Users\e.mendes\source\repos\Aplicativo\Aplicativo\bin\Debug\netcoreapp2.2\Aplicativo.deps.json
+C:\Users\e.mendes\source\repos\Aplicativo\Aplicativo\bin\Debug\netcoreapp2.2\Aplicativo.runtimeconfig.json
+C:\Users\e.mendes\source\repos\Aplicativo\Aplicativo\bin\Debug\netcoreapp2.2\Aplicativo.runtimeconfig.dev.json
+C:\Users\e.mendes\source\repos\Aplicativo\Aplicativo\bin\Debug\netcoreapp2.2\Aplicativo.dll
+C:\Users\e.mendes\source\repos\Aplicativo\Aplicativo\obj\Debug\netcoreapp2.2\Aplicativo.csproj.CoreCompileInputs.cache
+C:\Users\e.mendes\source\repos\Aplicativo\Aplicativo\obj\Debug\netcoreapp2.2\Aplicativo.RazorAssemblyInfo.cache
+C:\Users\e.mendes\source\repos\Aplicativo\Aplicativo\obj\Debug\netcoreapp2.2\Aplicativo.RazorAssemblyInfo.cs
+C:\Users\e.mendes\source\repos\Aplicativo\Aplicativo\obj\Debug\netcoreapp2.2\Aplicativo.AssemblyInfoInputs.cache
+C:\Users\e.mendes\source\repos\Aplicativo\Aplicativo\obj\Debug\netcoreapp2.2\Aplicativo.AssemblyInfo.cs
+C:\Users\e.mendes\source\repos\Aplicativo\Aplicativo\obj\Debug\netcoreapp2.2\Aplicativo.RazorTargetAssemblyInfo.cache
+C:\Users\e.mendes\source\repos\Aplicativo\Aplicativo\bin\Debug\netcoreapp2.2\Aplicativo.pdb
+C:\Users\e.mendes\source\repos\Aplicativo\Aplicativo\obj\Debug\netcoreapp2.2\Aplicativo.dll
+C:\Users\e.mendes\source\repos\Aplicativo\Aplicativo\obj\Debug\netcoreapp2.2\Aplicativo.pdb
+C:\Users\e.mendes\source\repos\Aplicativo\Aplicativo\obj\Debug\netcoreapp2.2\Aplicativo.csprojAssemblyReference.cache
+D:\APIS\App.NET Core\Aplicativo\Aplicativo\bin\Debug\netcoreapp2.2\Aplicativo.deps.json
+D:\APIS\App.NET Core\Aplicativo\Aplicativo\bin\Debug\netcoreapp2.2\Aplicativo.runtimeconfig.json
+D:\APIS\App.NET Core\Aplicativo\Aplicativo\bin\Debug\netcoreapp2.2\Aplicativo.runtimeconfig.dev.json
+D:\APIS\App.NET Core\Aplicativo\Aplicativo\bin\Debug\netcoreapp2.2\Aplicativo.dll
+D:\APIS\App.NET Core\Aplicativo\Aplicativo\bin\Debug\netcoreapp2.2\Aplicativo.pdb
+D:\APIS\App.NET Core\Aplicativo\Aplicativo\obj\Debug\netcoreapp2.2\Aplicativo.csprojAssemblyReference.cache
+D:\APIS\App.NET Core\Aplicativo\Aplicativo\obj\Debug\netcoreapp2.2\Aplicativo.csproj.CoreCompileInputs.cache
+D:\APIS\App.NET Core\Aplicativo\Aplicativo\obj\Debug\netcoreapp2.2\Aplicativo.RazorAssemblyInfo.cache
+D:\APIS\App.NET Core\Aplicativo\Aplicativo\obj\Debug\netcoreapp2.2\Aplicativo.RazorAssemblyInfo.cs
+D:\APIS\App.NET Core\Aplicativo\Aplicativo\obj\Debug\netcoreapp2.2\Aplicativo.AssemblyInfoInputs.cache
+D:\APIS\App.NET Core\Aplicativo\Aplicativo\obj\Debug\netcoreapp2.2\Aplicativo.AssemblyInfo.cs
+D:\APIS\App.NET Core\Aplicativo\Aplicativo\obj\Debug\netcoreapp2.2\Aplicativo.RazorTargetAssemblyInfo.cache
+D:\APIS\App.NET Core\Aplicativo\Aplicativo\obj\Debug\netcoreapp2.2\Aplicativo.dll
+D:\APIS\App.NET Core\Aplicativo\Aplicativo\obj\Debug\netcoreapp2.2\Aplicativo.pdb
